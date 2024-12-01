@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/outp1/NewGarantBot" target="_blank">Гарант-Бот.</a> 
+<h1 align="center"><aГарант-Бот.</a> 
 Гарантированные сделки в телеграмме.</h1>
 <h3 align="center">Получай комиссию со сделок других пользователей, ничего не вкладывая</h3>
   
